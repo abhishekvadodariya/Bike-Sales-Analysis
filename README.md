@@ -38,4 +38,4 @@ This project focuses on analyzing bike sales data to help stakeholders understan
 ## Project Structure
 
 * `Bike Sales Analysis.pbix`: The main Power BI dashboard file.
-* `Data/`: (If you have data files) The folder containing the data source files.
+* `Data/`: The folder containing the data source files.
